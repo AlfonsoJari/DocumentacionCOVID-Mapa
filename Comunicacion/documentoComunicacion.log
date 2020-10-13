@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.13)  12 OCT 2020 18:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.9.13)  12 OCT 2020 19:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -183,7 +183,7 @@ Overfull \hbox (1.55959pt too wide) in paragraph at lines 20--22
 File: Captura de pantalla de 2020-10-12 18-22-20.png Graphic file (type png)
 <use Captura de pantalla de 2020-10-12 18-22-20.png>
 Package pdftex.def Info: Captura de pantalla de 2020-10-12 18-22-20.png  used o
-n input line 44.
+n input line 45.
 (pdftex.def)             Requested size: 411.33992pt x 231.26578pt.
 [1
 
@@ -193,17 +193,17 @@ n input line 44.
 Here is how much of TeX's memory you used:
  2169 strings out of 480608
  29733 string characters out of 5905088
- 269348 words of memory out of 5000000
+ 270348 words of memory out of 5000000
  18080 multiletter control sequences out of 15000+600000
  533624 words of font info for 28 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 30i,7n,31p,665b,291s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 30i,7n,31p,659b,291s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/app/texlive/texmf-dist/fonts/enc/dvips/cm-supe
 r/cm-super-ts1.enc}</app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
 12.pfb></app/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></app/
 texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></app/texlive/texm
 f-dist/fonts/type1/public/cm-super/sfrm1000.pfb>
-Output written on documentoComunicacion.pdf (2 pages, 284923 bytes).
+Output written on documentoComunicacion.pdf (2 pages, 285407 bytes).
 PDF statistics:
  33 PDF objects out of 1000 (max. 8388607)
  20 compressed objects within 1 object stream
